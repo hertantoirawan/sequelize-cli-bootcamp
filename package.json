@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rocketacademy/sequelize-cli-bootcamp#readme",
   "dependencies": {
+    "node": "^17.7.2",
     "pg": "^8.6.0",
     "sequelize": "^6.6.4"
   },
